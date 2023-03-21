@@ -1,0 +1,3 @@
+Bug fix in development branch
+This is bad code
+Yes, This is the good feature
